@@ -1,7 +1,7 @@
 <p align="center">
     <img 
-        width="300" 
-        height="300"
+        width="200" 
+        height="200"
         style="border-radius: 50%; border: 4px solid #58a6ff; box-shadow: 0 6px 12px rgba(0,0,0,0.2); object-fit: cover" 
         src="https://github.com/user-attachments/assets/7a97d63b-3d29-424e-a4af-30f9f9a5e23c" 
         alt="memoji circular"
