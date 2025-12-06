@@ -1,5 +1,11 @@
 <p align="center">
-    <img width="200" src="https://github.com/user-attachments/assets/9c8153aa-d39b-40f2-9036-401e082cb798" alt="memoji">
+    <img 
+        width="300" 
+        height="300"
+        style="border-radius: 50%; border: 4px solid #58a6ff; box-shadow: 0 6px 12px rgba(0,0,0,0.2); object-fit: cover" 
+        src="https://github.com/user-attachments/assets/9c8153aa-d39b-40f2-9036-401e082cb798" 
+        alt="memoji"
+    >
 </p>
 
 <h1> Hello User! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
