@@ -20,7 +20,7 @@
 
 - 🔭 I’m currently studying!
   
-- 🌱 I’m currently learning GitHub, Java, Python, C++ and C.
+- 🌱 I’m currently learning GitHub, Java, Python, HTML, CSS, JavaScript, C++, and C.
       
 - ⚡ Fun fact: I love doing sports.
 
